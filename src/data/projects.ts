@@ -200,7 +200,7 @@ export const projects: Project[] = [
     description:
       "A personal portfolio website showcasing my skills, projects, and experience in web development. This site is designed to reflect my professional journey and provide potential clients and employers with an overview of my capabilities.",
     img: '/portfolio-project.png',
-    url: '',
+    url: 'https://personal-portfolio-cov.vercel.app/',
     progress: false,
     date: 'Since January 2024'
   }
